@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PTnglieder-rescue)(type Legacy)(uri ${KIPRJMOD}/PTnglieder-rescue.lib)(options "")(descr ""))
+)

@@ -712,7 +712,7 @@ F 3 "~" H 2800 6250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:USB_C_Receptacle_USB2.0 J5
+L PTnglieder-rescue:USB_C_Receptacle_USB2.0-Connector J5
 U 1 1 5F77DF03
 P 1250 6700
 F 0 "J5" H 1357 7567 50  0000 C CNN
